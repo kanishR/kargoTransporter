@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kargoPaiPo</string>
+    <string name="loading_time">Loading Time %s</string>
+    <string name="un_loading_time">Un-Loading Time %s</string>
+</resources>
